@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Shawantkapali/SpaceCraft/static/css/main.c752447a.css",
+    "main.js": "/Shawantkapali/SpaceCraft/static/js/main.131d5086.js",
+    "static/js/787.0e31295a.chunk.js": "/Shawantkapali/SpaceCraft/static/js/787.0e31295a.chunk.js",
+    "static/media/cosmos.jpg": "/Shawantkapali/SpaceCraft/static/media/cosmos.d98e844c3e428bff2323.jpg",
+    "static/media/red.jpg": "/Shawantkapali/SpaceCraft/static/media/red.615caaf3eebc69a0f716.jpg",
+    "static/media/southpole.PNG": "/Shawantkapali/SpaceCraft/static/media/southpole.f2783dc1a6b923ec9e60.PNG",
+    "static/media/southpole.jpg": "/Shawantkapali/SpaceCraft/static/media/southpole.319ccd6c8bd085035416.jpg",
+    "static/media/spaceship.png": "/Shawantkapali/SpaceCraft/static/media/spaceship.d6b9db6fb1337559ac7c.png",
+    "static/media/mars.jpg": "/Shawantkapali/SpaceCraft/static/media/mars.9f17c229725f14729265.jpg",
+    "static/media/alien.jpg": "/Shawantkapali/SpaceCraft/static/media/alien.ec9ec21f8cb09d10617e.jpg",
+    "static/media/galaxy.jpg": "/Shawantkapali/SpaceCraft/static/media/galaxy.91df3e81f3d1251c1fa5.jpg",
+    "static/media/astronaut.jpg": "/Shawantkapali/SpaceCraft/static/media/astronaut.42c00aafa3b10963564a.jpg",
+    "static/media/solarflare.jpg": "/Shawantkapali/SpaceCraft/static/media/solarflare.3d20e529953306fd228f.jpg",
+    "static/media/neptune.png": "/Shawantkapali/SpaceCraft/static/media/neptune.86f1e0f3b467d76ba585.png",
+    "static/media/Saturn.png": "/Shawantkapali/SpaceCraft/static/media/Saturn.b1f69fbfada76b0df108.png",
+    "static/media/jupiter.png": "/Shawantkapali/SpaceCraft/static/media/jupiter.6fa0b51efec28d7e1c48.png",
+    "static/media/blackhole.jpg": "/Shawantkapali/SpaceCraft/static/media/blackhole.903b7c5b1b1858909614.jpg",
+    "static/media/mercury.png": "/Shawantkapali/SpaceCraft/static/media/mercury.dcaf192e9ec0455ff1f8.png",
+    "static/media/venus.png": "/Shawantkapali/SpaceCraft/static/media/venus.059bab3b3e037f877542.png",
+    "static/media/mars.png": "/Shawantkapali/SpaceCraft/static/media/mars.2d1086089619f9a5aaf9.png",
+    "static/media/revicons.eot": "/Shawantkapali/SpaceCraft/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Shawantkapali/SpaceCraft/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Shawantkapali/SpaceCraft/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/Shawantkapali/SpaceCraft/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shawantkapali/SpaceCraft/index.html",
+    "main.c752447a.css.map": "/Shawantkapali/SpaceCraft/static/css/main.c752447a.css.map",
+    "main.131d5086.js.map": "/Shawantkapali/SpaceCraft/static/js/main.131d5086.js.map",
+    "787.0e31295a.chunk.js.map": "/Shawantkapali/SpaceCraft/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c752447a.css",
+    "static/js/main.131d5086.js"
+  ]
+}
