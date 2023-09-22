@@ -1,0 +1,101 @@
+.hero {
+    width:100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+img { 
+    width:100%;
+    height: 100%;
+    object-fit:cover;
+    filter: contrast(150%);
+
+}
+
+.hero-text{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width:100%; 
+}
+
+.hero-text h1{
+    font-size: 3rem;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hero-text p{
+    font-size: 1.3rem;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 0.5rem 0 2rem 0;
+}
+
+.hero-text .button{
+    text-decoration: none;
+    border: 2px solid #fff;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: 0.3s ease-in-out;
+    position: relative;
+	background-color: transparent;
+    font-weight: 500;
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    
+}
+
+.hero-text .button::before {
+    content: "";
+    width: 0%;
+    height: 100%;
+    position: absolute;
+    background-color: #fff;
+    z-index: -1;
+    transition: 0.3s ease-in-out;
+    
+  }
+
+  .hero-text .button:hover {
+    color: #121212;
+    background-color: #fff;
+    transition: 0.3s ease-in-out;
+
+  }
+
+@media screen and (max-width: 555px)
+{
+
+    hero {
+        height: auto; /* Allow the content to dictate the height */
+      }
+    .hero-text h1 
+    {
+        padding: 10px 20px;
+    }
+    .hero-text p {
+        font-size: 1.1rem;
+        padding: 0 0 2rem 0;
+    }
+
+    .hero-text .show{
+        padding: 0.6rem 1.1rem;
+        border-radius: 6px;
+        font-size: 1rem;
+
+    }
+    img { 
+        height: 100%;
+        object-fit:cover;
+        filter: contrast(150%);
+    
+    }
+}
